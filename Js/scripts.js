@@ -19,8 +19,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    var box3 = document.querySelector('#tips .box');
+    var box3 = document.querySelector('#box3');
     box3.addEventListener('click', function() {
-        window.alert('Explore mais dicas em nosso blog para melhorar seu jogo em Tibia!');
+        alert('Explore mais dicas em nosso blog para melhorar seu jogo em Tibia!');
     });
 });
