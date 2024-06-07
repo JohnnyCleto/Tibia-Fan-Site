@@ -20,8 +20,5 @@ O projeto consiste em três principais arquivos:
 
 ## Conclusão
 
-Este projeto demonstra a aplicação de técnicas de design responsivo e interatividade com JavaScript para criar um site atraente e funcional sobre Tibia. Esperamos que este trabalho sirva como uma base sólida para futuros desenvolvimentos web e estudos na área de Engenharia de Software.
+Este projeto demonstra a aplicação de técnicas de design responsivo e interatividade com JavaScript para criar um site atraente e funcional sobre Tibia. 
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
