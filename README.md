@@ -18,45 +18,6 @@ O projeto consiste em três principais arquivos:
 - CSS3
 - JavaScript
 
-## Funcionalidades
-
-### Responsividade
-
-O site é totalmente responsivo, adaptando-se aos seguintes tamanhos de tela:
-
-- **Celular Pequeno**: até 360px de largura
-- **Celular Médio**: 361px a 480px de largura
-- **Celular Grande**: 481px a 768px de largura
-- **Tablet Retrato**: 769px a 1024px de largura
-- **Tablet Paisagem**: 1025px a 1280px de largura
-- **Desktop Comum**: 1281px a 1440px de largura
-- **Desktop Grande**: acima de 1441px de largura
-
-### Interatividade
-
-Três ações interativas foram implementadas usando JavaScript:
-
-1. **Adicionar Conteúdo Dinamicamente**: Ao clicar em um botão, conteúdo adicional é inserido na página.
-2. **Alterar Estilo ao Passar o Mouse**: O estilo dos elementos muda ao passar o mouse sobre eles, incluindo mudança de cor de fundo e aumento de tamanho.
-3. **Mostrar Mensagem**: Um alerta é exibido ao clicar em um dos elementos da página.
-
-
-```
-
-## Como Executar o Projeto
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seuusuario/tibia-fan-site.git
-   ```
-
-2. **Navegue até o diretório do projeto**:
-   ```bash
-   cd tibia-fan-site
-   ```
-
-3. **Abra o arquivo `index.html` em um navegador web**.
-
 ## Conclusão
 
 Este projeto demonstra a aplicação de técnicas de design responsivo e interatividade com JavaScript para criar um site atraente e funcional sobre Tibia. Esperamos que este trabalho sirva como uma base sólida para futuros desenvolvimentos web e estudos na área de Engenharia de Software.
